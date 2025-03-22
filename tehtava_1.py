@@ -1,7 +1,6 @@
 import numpy as np
 
 # Tehtävät 1.1
-
 # 1. Muunna asteiksi
 a = 2.493
 b = 0.911
